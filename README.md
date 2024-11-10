@@ -1,4 +1,5 @@
-Cosmic Visualization:
+Cosmic Visualization
+
 A visually engaging Solar System simulation built with HTML and CSS. This project presents an animated view of the solar system with the Sun at the center, surrounded by orbiting planets. Each planet follows its own orbital path, illustrating planetary motion and distance relationships in a simplified form.
 
 
